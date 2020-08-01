@@ -1,0 +1,10 @@
+class MyProfile:
+	name = "Akshay Nevrekar"
+	username = "Sociopath"
+	birth_date = "September 27th, 1991"
+	current_organization = "63 Moons Technologies"
+	job_profile = "Artificial Intelligence Developer"
+	city = "Mumbai"
+	mobile = "+91-8356025005"
+	primary_email = "akshaynevrekar@outlook.com"
+	secondary_email = "akshaynevrekar@gmail.com"
